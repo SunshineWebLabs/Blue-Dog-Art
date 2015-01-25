@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* {
+	color: #3138bd;
+} */
+
+/* Design */
+body {
+	background: rgba(245,245,245,1);
+	background: -moz-linear-gradient(top, rgba(245,245,245,1) 0%, rgba(350,350,350,1) 50%, rgba(255,255,255,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(245,245,245,1)), color-stop(53%, rgba(350,350,350,1)), color-stop(100%, rgba(255,255,255,1)));
+	background: -webkit-linear-gradient(top, rgba(245,245,245,1) 0%, rgba(350,350,350,1) 50%, rgba(255,255,255,1) 100%);
+	background: -o-linear-gradient(top, rgba(245,245,245,1) 0%, rgba(350,350,350,1) 50%, rgba(255,255,255,1) 100%);
+	background: -ms-linear-gradient(top, rgba(245,245,245,1) 0%, rgba(350,350,350,1) 50%, rgba(255,255,255,1) 100%);
+	background: linear-gradient(to bottom, rgba(245,245,245,1) 0%, rgba(350,350,350,1) 50%, rgba(255,255,255,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#ffffff', GradientType=0 );
+}
+.container {
+	background-color: #fff;
+	box-shadow: 0 0 5px #cccccc;
+	padding-top: 10px;
+}
+header {
+}
+.logo {	
+	color: #303ac0;
+}
+.logo h1 {
+}
+.logo img {
+	padding: 0;
+	margin: 0 auto 20px auto;
+}
+.navMain {
+	text-transform: uppercase;
+	font-weight: bold;
+	border-bottom: 1px solid #303ac0;
+}
+.navMain a {
+	color: #303ac0;
+}
+.navbar-toggle {
+	border: 1px #303ac0 solid;
+}
+.icon-bar {
+	background-color: #303ac0;
+}
+.navArt {
+}
+.navSearch {
+}
+.navSub {
+}
+.navSocial {
+	text-align: right;
+	height: 30px;
+	margin-top: 20px;
+}
+.navSocial a {
+	display:inline-block;
+	vertical-align: middle;
+	height: 30px;
+}
+.navSocial a img {
+	width: 25px;
+	height: 25px;
+	margin: 0 2px;
+   transition: linear .25s ease-in-out;
+   -moz-transition: linear .25s ease-in-out;
+   -webkit-transition: linear .25s ease-in-out;
+}
+.navSocial a:hover img {    
+	width: 29px;
+	height: 29px;
+	margin: 0;
+}
+.imgSlider {
+}
+.cta {
+}
+.intro {
+}
+.promo1 {
+}
+.promo2 {
+}
+.promo3 {
+}
+.promo4 {
+}
+footer {
+}
+.foot1 {
+}
+.foot2 {
+}
+.foot3 {
+}
+.foot4 {
+}
+
